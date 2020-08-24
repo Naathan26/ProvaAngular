@@ -1,0 +1,23 @@
+/*-- user card --*/
+.img-border {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px; }
+  
+  .img-bg {
+    background: url(../images/desk.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 253px; }
+  
+  a.pos {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.35);
+    color: #fff;
+    left: 20px;
+    top: 20px;
+    padding: 10px 20px;
+    border-radius: 4px; }
+  
+  a.pos:hover {
+    background-color: rgba(0, 0, 0, 0.2); }
+  
+  /*-- //user card --*/
